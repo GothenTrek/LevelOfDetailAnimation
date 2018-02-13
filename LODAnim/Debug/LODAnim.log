@@ -1,0 +1,41 @@
+﻿  Main.cpp
+y:\university - computer science\year 3\semester 2\computer graphics 3 rendering\assignments\assignment 3\lod\lodanim\lodanim\main.cpp(117): warning C4101: 'EBO': unreferenced local variable
+Main.obj : error LNK2019: unresolved external symbol __imp__glClear@4 referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol __imp__glClearColor@16 referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol __imp__glDrawArrays@12 referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol __imp__glViewport@16 referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPAUGLFWwindow@@HHHH@Z)
+Main.obj : error LNK2019: unresolved external symbol _glfwGetFramebufferSize referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetKeyCallback referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Main.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+Main.obj : error LNK2001: unresolved external symbol ___glewBufferData
+Main.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+Main.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+Main.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+Main.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+Main.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+Main.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+Main.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+Main.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+Main.obj : error LNK2001: unresolved external symbol ___glewGetProgramInfoLog
+Main.obj : error LNK2001: unresolved external symbol ___glewGetProgramiv
+Main.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+Main.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+Main.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+Main.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+Main.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+Main.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+Main.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+Main.obj : error LNK2001: unresolved external symbol ___glewDeleteVertexArrays
+Main.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+Main.obj : error LNK2001: unresolved external symbol _glewExperimental
+Y:\University - Computer Science\Year 3\Semester 2\Computer Graphics 3 Rendering\Assignments\Assignment 3\LOD\LODAnim\Debug\LODAnim.exe : fatal error LNK1120: 38 unresolved externals
